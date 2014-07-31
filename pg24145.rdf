@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <pgterms:ebook rdf:about="ebooks/24145">
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/35">
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1850</pgterms:birthdate>
+        <pgterms:name>Stevenson, Robert Louis</pgterms:name>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Robert_Louis_Stevenson"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1894</pgterms:deathdate>
+        <pgterms:alias>Stevenson, R. L. (Robert Louis)</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nbbcf6965b0754f98a99914573cfee006">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Self-experimentation in medicine -- Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/24145.qioo">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfa376684da494772abe0e3716d15c70a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-19T06:36:57.709470</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125846</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N1e010462c1034a82b1db58a41ee90241">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Science fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/24145.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83773</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T19:49:05.068043</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7f2701a929c5488cbdb1e935bed622e8">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/24145/24145.txt">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1db7560a0b85402184083f8eca9139ef">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165503</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-03T12:10:12</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/24145/24145-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N88a3d99775a34612bcaeb356d1a09394">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N33d88a77a4a84d8aa19d6711c03bbe31">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86110</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-03T12:10:14</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/24145/24145-h/24145-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">187331</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-03T12:09:50</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ncd2ba4c4620a425cb7f4b06dfb7aa418">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:alternative>Strange case of Dr. Jekyll and Mr. Hyde. Esperanto</dcterms:alternative>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/24145/24145-0.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na74a197a104648be9880ad4459602292">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-03T12:10:14</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64125</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N17a25013be5b44749b61f776b141ca46">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <marcrel:trl>
+      <pgterms:agent rdf:about="2009/agents/26153">
+        <pgterms:name>Mann, William W.</pgterms:name>
+      </pgterms:agent>
+    </marcrel:trl>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/24145/24245-pdf.pdf">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">479859</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-03T12:22:16</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N96d3a18d9e604aefbb4dd07e944e940c">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/pdf</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/24145.epub.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T19:49:05.651448</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9c0855cef47c4559bf94d37e8915291e">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102640</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N22b42f03cece455684aabbaea1e18a56">
+        <rdf:value>Physicians -- Fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/24145/24145.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2381f4d7ffcd40a0b95c4f70bbb87539">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63894</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne3a1d121c9e74a7fb3d8de58dad0cda6">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-03T12:10:14</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/24145/24145-rtf.rtf">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231781</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-03T12:15:52</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd6aed43c17414409821e1ac4f1e798f1">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/rtf</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nf2c8f5deec8a43e396d554137ec5dc93">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Psychological fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/24145/24145-0.txt">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8d178ad5bada4accb4aa1248f0fe2d9d">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165954</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-03T12:09:44</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <marcrel:trl>
+      <pgterms:agent rdf:about="2009/agents/26279">
+        <pgterms:name>Morrison, William</pgterms:name>
+      </pgterms:agent>
+    </marcrel:trl>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/24145.plucker">
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-19T06:37:00.014157</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104594</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N873cee3f73a643aaae4a3c65773752f0">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/24145/24245-pdf.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1c5c049e1093446cbd3c21e7b2b04d25">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/pdf</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">450301</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-03T12:23:20</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb09340bafe8e4969a876574438ae271c">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N9775cb4b3ef04ccaac89ea3bb723b1b4">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N30885e8840104f7e9cb9dbe21236fae4">
+        <rdf:value>PR</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N26799447ae6840908967a788636ca6ee">
+        <rdf:value>London (England) -- Fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:title>Doktoro Jekyll kaj Sinjoro Hyde</dcterms:title>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N13b2fd82182841c287cce783dc7d19a8">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Horror tales</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nc1f1442fcb8e4711b85d152e738579bd">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Multiple personality -- Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Nd1e31dd212d44b6db317506fdbb99e33">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">eo</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</pgterms:downloads>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-01-03</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/24145/24145-rtf.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndd9ecfb23ba84ebf82e368b89b6a2dd7">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-03T12:17:02</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/24145"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5282780c36b941ab84e07b3f11b4e892">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/rtf</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74293</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+  </cc:Work>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Robert_Louis_Stevenson">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
