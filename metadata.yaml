@@ -1,0 +1,44 @@
+_repo: Doktoro-Jekyll-kaj-Sinjoro-Hyde_24145
+_version: 0.1.0
+alternative_title: Strange case of Dr. Jekyll and Mr. Hyde. Esperanto
+contributor:
+  translators:
+  - agent_name: Morrison, William
+    gutenberg_agent_id: '26279'
+    url: http://www.gutenberg.org/2009/agents/26279
+  - agent_name: Mann, William W.
+    gutenberg_agent_id: '26153'
+    url: http://www.gutenberg.org/2009/agents/26153
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2008-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24145'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Self-experimentation in medicine -- Fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Multiple personality -- Fiction'
+- !lcsh 'Physicians -- Fiction'
+title: Doktoro Jekyll kaj Sinjoro Hyde
+url: http://www.gutenberg.org/ebooks/24145
