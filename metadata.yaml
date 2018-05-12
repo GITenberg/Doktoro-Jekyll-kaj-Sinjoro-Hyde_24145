@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24145#Doktoro-Jekyll-kaj-Sinjoro-Hyde
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2008-01-03'
 gutenberg_type: Text
